@@ -94,7 +94,12 @@ rss:
       name: "雅虎财经"
       url: "https://finance.yahoo.com/news/rssindex"
       enabled: false                  # 禁用
-
+      
+    - id: "ithome"
+      name: "IT之家"
+      url: "https://www.ithome.com/rss/"
+      enabled: false                  # 禁用
+      
     # 自定义源示例
     # - id: "custom-feed"
     #   name: "自定义源"
